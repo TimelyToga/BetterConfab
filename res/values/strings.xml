@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BetterConfab</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Options</string>
+    <string name="title_section2">Start a Better Confabulation</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="NewQButtonName">Give Me a New Question</string>
+    <string name="questionDisplayData"></string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questionArray">
+        <item >What do you belive in?</item>
+        <item>What would you have like to done better?</item>
+        <item>Who are you and why?</item>
+        <item>What is it about yourself that makes you different from me?</item>
+        <item>What smell means the most to you and why?</item>
+        <item >What is one object that would improve your life?</item>
+        <item >Have you ever met a famous person? If so, why?</item>
+        <item >What was the most important moment of your life?</item>
+        <item >What is your greatest weakness? (honestly)</item>
+        <item >Do you believe in God? </item>
+        <item >What is the world\'s greatest injustice?</item>
+        <item >Who are you?</item>
+        <item >Who would you like to be?</item>
+        <item >How much money is enough?</item>
+        <item >What has brought you to this moment, in this place?</item>
+        <item >Are you happy?</item>
+        <item >What makes you happiest?</item>
+        <item >How do you think?</item>
+    </string-array>
+    <string-array name="topicArray"></string-array>
+    
+</resources>
